@@ -5,4 +5,4 @@ tags={
 	"Traits"
 }
 supported_version="v4.*"
-path="C:/Users/user/Documents/Paradox Interactive/Stellaris/mod/vorous_galaxy"
+path="mod/vorous_galaxy"

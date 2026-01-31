@@ -1,45 +1,48 @@
 ############################
-# (Pery) (name) SPECIALIST #
+# (Pery) Hunting,Grounds SPECIALIST #
 ############################
 
-(name)_1_modifier = {
+Hunting,Grounds_1_modifier = {
 	main_perk = yes
 	subject_modifier ={
 		
 	}
 	
-(name)_1_penalties = {
+Hunting,Grounds_1_penalties = {
 	main_perk = yes
 	subject_modifier = {
-	
+		diplo_weight_mult = -0.3
+		
 	}
 
-(name)_1_overlord_modifier = {
+Hunting,Grounds_1_overlord_modifier = {
 	icon = "img"
 	overlord_modifier = {
-	
+		planet_pops_organics_food_upkeep_mult = -0.1
+		planet_pops_organics_consumer_goods_upkeep_mult = -0.1
 	}
 	
-(name)_2_modifier = {
+Hunting,Grounds_2_modifier = {
 	main_perk = yes
 	subject_modifier ={
 		
 	}
 	
-(name)_2_penalties = {
+Hunting,Grounds_2_penalties = {
 	main_perk = yes
 	subject_modifier = {
 	
 	}
 	
-(name)_3_modifier = {
+Hunting,Grounds_3_modifier = {
 	main_perk = yes
 	subject_modifier ={
 		
 	}
 	
-(name)_3_penalties = {
+Hunting,Grounds_3_penalties = {
 	main_perk = yes
 	subject_modifier = {
 	
+
 	}

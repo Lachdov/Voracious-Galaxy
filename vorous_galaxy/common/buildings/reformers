@@ -24,6 +24,6 @@ reformers = {
 		}
 	}
 	planet_modifier = {
-		pop_purge_speed = -0.15
+		pop_purge_speed = -1.0
 	}
 }

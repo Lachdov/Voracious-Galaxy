@@ -5,7 +5,7 @@
 
 # If you add any new types or change the keys of the existing ones, make sure to change the level-up message_types for them and their loc keys
 
-specialist_(name) = {
+specialist_Hunting,Grounds = {
 	icon = "image"
 	icon_large = "image_large"
 	preferred_ethic = ethic_
@@ -39,4 +39,5 @@ specialist_(name) = {
 			}
 		}
 	}
+
 }
